@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <windows.h>
-//lalala
+
 using namespace std;
 
 double metr (double);
