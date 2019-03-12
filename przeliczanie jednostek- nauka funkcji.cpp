@@ -11,11 +11,11 @@ double jard (double);
 
 int main()
 {
-    cout << "|--------------------------|" <<endl;
-    cout << "|Program zamiany jednostek |" <<endl;
-    cout << "|          V.1.1           |" <<endl;
-    cout << "|     by Grzegorz Ogar     |" <<endl;
-    cout << "|--------------------------|" <<endl<<endl<<endl;
+    cout << "|------------------------------------|" <<endl;
+    cout << "|      Program zamiany jednostek     |" <<endl;
+    cout << "|                V.1.1               |" <<endl;
+    cout << "|  by Mateusz "wajchę przełóż" Ogar  |" <<endl;
+    cout << "|------------------------------------|" <<endl<<endl<<endl;
 
     cout << "Jednostki ktore obsluguje program: " <<endl;
     cout << "1. Metr [m]" << endl;
